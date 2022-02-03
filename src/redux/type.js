@@ -1,0 +1,3 @@
+export const SCROLL_STATE = "SCROLL_STATE";
+export const RANDOM_SCROLL = "RANDOM_SCROLL";
+
